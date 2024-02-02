@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    padding: 2rem;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.row {
+    padding: 1rem;
+}
+
+.barra {
+    background-color: #ff266e;
+}
+
+.cajaborde {
+    border-style: solid;
+    border-color: #9c2c51;
+    height: 30vh;
+
+}
